@@ -1,0 +1,75 @@
+body {
+  text-align: center;
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: goldenrod;
+  background-image: url("https://img.freepik.com/premium-photo/vibrant-top-view-birthday-party-setup-featuring-white-background-ai-photo_1192063-29243.jpg");
+  background-size: cover;
+  text-shadow: 1px 1px 2px black;
+}
+
+
+
+#eti {
+  border-radius:50%;
+  border: solid 5px;
+  border-color: indianred;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.birth-info {
+  background-color: dimgrey;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  padding: 5px;
+  margin-bottom: 0px;
+}
+
+.gift {
+  background-image: url("https://cdn-icons-png.flaticon.com/512/4213/4213958.png");
+  background-size: cover;
+  width: 400px;
+  height: 400px;
+  box-shadow: 0px 0px 20px #ffb703;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#happygift:hover {
+  background-image: url("<iframe src="https://giphy.com/embed/nAELLSB7jV0wVejr1h" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Mostapes-cat-kitty-mikitti-nAELLSB7jV0wVejr1h">via GIPHY</a></p>");
+}
+
+#hotgift:hover{
+  background-image: url("<iframe src="https://giphy.com/embed/AU9st1hWuzMwU" width="348" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-happy-AU9st1hWuzMwU">via GIPHY</a></p>");
+}
+
+#charminggift:hover {
+  background-image: url("<iframe src="https://giphy.com/embed/2YDUWRh81Wj0oYtJUd" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/firstwefeast-hot-ones-first-we-feast-puss-in-boots-2YDUWRh81Wj0oYtJUd">via GIPHY</a></p>");
+}
+
+#lovegift:hover {
+  background-image: url("<iframe src="https://giphy.com/embed/XFpaPUu44PqnsmO9lc" width="480" height="485" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-i-love-you-chippythedog-XFpaPUu44PqnsmO9lc">via GIPHY</a></p>");
+}
+
+.gift-hint {
+  margin-top: 50px;
+}
+
+a {
+  color: goldenrod;
+  margin-bottom: 50px;
+  font-size: 20px
+}
+
+p {
+  font-size: 20px;
+}
+
